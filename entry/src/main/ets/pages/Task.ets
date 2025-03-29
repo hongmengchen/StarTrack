@@ -2,7 +2,7 @@ import { router } from '@kit.ArkUI'
 
 @Entry
 @Component
-struct Second {
+struct Task {
   @State message: string = 'Hi 你好'
 
   build() {
