@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "EntryFormAbility_desc",
+      "value": "form_description"
+    },
+    {
+      "name": "EntryFormAbility_label",
+      "value": "form_label"
+    },
+    {
+      "name": "StarTrack_desc",
+      "value": "StarTrack"
+    },
+    {
+      "name": "StarTrack_display_name",
+      "value": "StarTrack"
+    },
+    {
+      "name": "app_name",
+      "value": "星轨待办"
+    }
+  ]
+}
